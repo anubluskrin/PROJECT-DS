@@ -50,4 +50,4 @@ Metrik: Inertia (Elbow), Silhouette Score, Cophenetic Correlation Coefficient, d
 4. Buka `notebook_proyek_akhir.ipynb` lalu jalankan semua sel dari atas ke bawah (`Run All`). Dataset dibaca dari `data/all_months_clean.csv` dengan pemisah `;`.
 
 ## Keterbatasan
-Data hanya mewakili satu toko di satu platform, sehingga hasil tidak dapat digeneralisasi ke seluruh pasar e-commerce Indonesia.
+Data berasal dari satu sumber dataset di Kaggle yang tidak menyebut nama platform maupun toko. Berdasarkan ciri datanya (ShopeePay, SPayLater, SeaBank, kurir SPX), data ini teridentifikasi berasal dari Shopee, dan kemungkinan berasal dari satu penjual, tetapi hal itu tidak dapat dikonfirmasi karena tidak ada kolom identitas toko. Hasil analisis karenanya tidak dapat digeneralisasi ke seluruh pasar e-commerce Indonesia.
