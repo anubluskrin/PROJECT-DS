@@ -21,11 +21,11 @@ Metrik: Inertia (Elbow), Silhouette Score, Cophenetic Correlation Coefficient, d
 | `[isi]` | `[isi]` | `[isi, misalnya: Cleaning, Modelling, Evaluasi]` |
 
 ## Sumber Data
-- Dataset: `[isi judul dataset di Kaggle]`
-- Tautan: `[isi URL]`
-- Pembuat: `[isi]`
-- Lisensi: `[isi]`
-- Tanggal pengambilan: `[isi]`
+- Sumber: Kaggle, "Indonesia E-Commerce Sales and Shipping 2023-2025"
+- Tautan: https://www.kaggle.com/datasets/bakitacos/indonesia-e-commerce-sales-and-shipping-20232025
+- Pembuat: BakiTacos
+- Lisensi: CC BY-SA 4.0
+- Tanggal pengambilan: 10-13-2026
 - Cakupan: pesanan satu toko di Shopee, Desember 2023 sampai November 2025 (20.848 baris, 19 kolom). Tidak memuat identitas pembeli, hanya kota/kabupaten dan provinsi.
 
 ## Struktur Repository
