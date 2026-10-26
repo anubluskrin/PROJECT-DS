@@ -16,7 +16,7 @@ Metrik: Inertia (Elbow), Silhouette Score, Cophenetic Correlation Coefficient, d
 ## Anggota dan Kontribusi
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Joeseca Daniel | 123240007 | `[isi, misalnya: Business Understanding, Data Gathering, README]` |
+| Joeseca Daniel | 1232400075 | `[isi, misalnya: Business Understanding, Data Gathering, README]` |
 | M. Afiq Fathurrahman | 123240010 | `[isi, misalnya: EDA]` |
 | Ahmadshyah Anshori | 123240020 | `[isi, misalnya: Cleaning, Modelling, Evaluasi]` |
 | M. Rofik Mua'dz F. | 123240038 | `[isi, misalnya: Cleaning, Modelling, Evaluasi]` |
