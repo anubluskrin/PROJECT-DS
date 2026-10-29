@@ -16,10 +16,10 @@ Metrik: Inertia (Elbow), Silhouette Score, Cophenetic Correlation Coefficient, d
 ## Anggota dan Kontribusi
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Joeseca Daniel | 1232400075 | `[isi, misalnya: Business Understanding, Data Gathering, README]` |
-| Afiq Fathurrahman | 123240010 | `[isi, misalnya: EDA]` |
-| Ahmadshyah Anshori | 123240020 | `[isi, misalnya: Cleaning, Modelling, Evaluasi]` |
-| M. Rofiq Mu'adz F. | 123240038 | `[isi, misalnya: Cleaning, Modelling, Evaluasi]` |
+| Joeseca Daniel | 123240007 | `[Business Understanding, Data Gathering]` |
+| Afiq Fathurrahman | 123240010 | `[Business Understanding, Data Gathering]` |
+| Ahmadshyah Anshori | 123240020 | `[Business Understanding, Data Gathering]` |
+| M. Rofiq Mu'adz F. | 123240038 | `[Business Understanding, Data Gathering]` |
 
 ## Sumber Data
 - Sumber: Kaggle, "Indonesia E-Commerce Sales and Shipping 2023-2025"
