@@ -131,4 +131,4 @@ Catatan:
 - [ ] Kondisi data sebelum dan sesudah cleaning ditampilkan
 - [ ] README.md berisi ringkasan, anggota dan kontribusi, sumber data, dan panduan menjalankan
 - [ ] Notebook dan dataset ada di repository
-- [ ] Semua anggota paham setiap keputusan untuk tanya jawab individu
+
