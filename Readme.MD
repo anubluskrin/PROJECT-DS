@@ -18,7 +18,7 @@ Metrik: Inertia (Elbow), Silhouette Score, Cophenetic Correlation Coefficient, d
 |---|---|---|
 | Joeseca Daniel | 123240007 | `[Business Understanding, Data Gathering]` |
 | Afiq Fathurrahman | 123240010 | `[Business Understanding, Data Gathering]` |
-| Ahmadshyah Anshori | 123240020 | `[Business Understanding, Data Gathering]` |
+| Ahmadsyah Anshori | 123240020 | `[Business Understanding, Data Gathering]` |
 | M. Rofiq Mu'adz F. | 123240038 | `[Business Understanding, Data Gathering]` |
 
 ## Sumber Data
